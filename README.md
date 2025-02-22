@@ -23,6 +23,8 @@ Descrição em andamento
 
 - [Spring Web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web) - para trabalhar com requisições web
 - [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok) - para reduzir a quantidade de código repetitivo
+- [Spring Cloud Config Server](https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-server) - centraliza a configuração de todos os microsserviços
+- [Spring Cloud Eureka Server](https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server) - permite que microsserviços se registrem e descubram uns aos outros
 
 ---
 
