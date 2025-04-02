@@ -8,7 +8,7 @@ Descrição em andamento
 
 ## 🚀 **Status do Projeto**
 
-⚙️ Projeto em andamento...
+✅ Projeto Concluído.
 
 ---
 
