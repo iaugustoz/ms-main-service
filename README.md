@@ -1,8 +1,14 @@
-# **Microsserviço main-service**
+# 📝 **Microsserviço main-service - MS centralizador** 📝
 
 ## 📜 **Descrição**
 
-Descrição em andamento
+Este repositório faz parte do projeto To-Do List. Ele contém o microserviço responsável por centralizar a arquitetura do sistema, fornecendo configurações dinâmicas para os demais serviços por meio do Spring Cloud Config Server. Além disso, atua como Service Discovery utilizando o Eureka Server, facilitando a comunicação entre os microsserviços.
+
+O projeto é constituído por alguns microsserviços e repositório de configuraçöes. A seguir, estão os principais componentes do sistema:
+
+- **[ms-tasks-service](https://github.com/iaugustoz/ms-tasks-service)**: reponsável pelo processamento e administração das tarefas disponíveis
+- **[ms-service-notification](https://github.com/iaugustoz/ms-main-service/)**: reponsável pelo gerenciamento e envio de notificações no sistema de To-Do List
+- **[config-server](https://github.com/iaugustoz/config-server/)**: repositório de configurações para os MS de tasks e notification
 
 ---
 
